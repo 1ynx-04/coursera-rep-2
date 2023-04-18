@@ -13,10 +13,10 @@ body {
 	border: 0;
 }
 
-#img-1 {
+#logo-img {
 	background: url(images/puppy.jpeg);
 	width: 150px;
 	height: 150px;
-	margin: 10px 15px 10px 0px;
+	margin: 10px 15px 10px 0;
 }
 
